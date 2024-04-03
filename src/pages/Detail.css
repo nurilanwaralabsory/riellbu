@@ -1,0 +1,47 @@
+.right {
+  background-color: rgb(216, 205, 205);
+  flex-grow: 6;
+  padding: 20px 0;
+}
+
+.left {
+  display: flex;
+  background-color: rgb(189, 189, 202);
+}
+
+.img-container {
+  width: 100%;
+}
+
+.img-anime {
+  width: 20%;
+}
+
+.detail-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 10px 20px;
+}
+
+.detail-content h1 {
+  margin-bottom: 20px;
+}
+
+.detail-content p {
+  margin-bottom: 20px;
+}
+
+.watch-online {
+  font-size: 20px;
+  color: rgb(214, 59, 59);
+}
+
+.data {
+  font-weight: bolder;
+  color: rgb(214, 59, 59);
+}
+
+.anime-description p {
+  padding: 10px 0;
+}
